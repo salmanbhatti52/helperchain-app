@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="177" viewBox="0 0 195 177">
+  <defs>
+    <filter id="Rectangle_774" x="0" y="0" width="195" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff2366" stop-opacity="0.271"/>
+      <stop offset="1" stop-color="#ff2366" stop-opacity="0.059"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_23448" data-name="Group 23448" transform="translate(-5 -531)">
+    <g id="Group_17679" data-name="Group 17679" transform="translate(-3772.489 -964.146)">
+      <g id="Group_16533" data-name="Group 16533" transform="translate(3792.288 1505.146)">
+        <g transform="matrix(1, 0, 0, 1, -14.8, -10)" filter="url(#Rectangle_774)">
+          <g id="Rectangle_774-2" data-name="Rectangle 774" transform="translate(15 10)" fill="#fff" stroke="#f5f4f4" stroke-width="1">
+            <rect width="165" height="147" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="164" height="146" rx="9.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Available_Loan_Credit" data-name="Available Loan Credit" transform="translate(13.201 16)" fill="#707070" font-size="12" font-family="Rubik-Medium, Rubik" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">Available Loan Credit</tspan></text>
+        <text id="_1.2M" data-name="1.2M" transform="translate(13.201 38)" font-size="16" font-family="Rubik-Medium, Rubik" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">1.2M</tspan></text>
+        <path id="Path_15966" data-name="Path 15966" d="M3359.8-22337.969s-5.68-12.359-11.361-12.359-4.419,12.359-11.362,12.359-8.31-3.422-16.411-12.359-6.734-24.2-15.991-23.4c-9.258.818-11.362,29.58-21.04,26.658s-10.626-30.711-17.674-38.355-4.209,9.1-10.521,7.789c-6.312-1.289-6.836-16.9-14.727-12.99s-9.468,24.375-16.832,28.6-2.424-11.352-10.883-11.115c-10.16.221-6.114-13.357-17.548-12.285" transform="translate(-3195.124 22444.51)" fill="none" stroke="#ff2366" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_15967" data-name="Path 15967" d="M3360.422-22337.969s-5.7-12.359-11.4-12.359-4.436,12.359-11.406,12.359-8.342-3.422-16.473-12.359-6.759-24.2-16.052-23.4c-9.292.818-11.4,29.58-21.12,26.658s-10.666-30.711-17.741-38.355-4.225,9.1-10.561,7.789c-6.336-1.289-6.863-16.9-14.783-12.99s-9.5,24.375-16.9,28.6-2.433-11.352-10.925-11.115c-10.2.221-6.137-13.357-17.615-12.285-.032,13.828-.014,76.7-.014,76.7s-1,1.717,1.4,6.064c1.616,2.93,3.007,3.15,4.611,4.881.021-.492.468.186.468.186l151.688-.078a26.739,26.739,0,0,0,4.312-3.293c1.706-1.715,2.48-5.346,2.48-5.346Z" transform="translate(-3195.229 22444.51)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <text id="_-_7_" data-name="- 7% " transform="translate(151 576)" fill="#ff2366" font-size="10" font-family="Rubik-Regular, Rubik" letter-spacing="0.02em"><tspan x="0" y="0">- 7% </tspan></text>
+  </g>
+</svg>

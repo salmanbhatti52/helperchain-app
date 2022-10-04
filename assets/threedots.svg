@@ -1,0 +1,10 @@
+<svg id="more" xmlns="http://www.w3.org/2000/svg" width="23" height="23.011" viewBox="0 0 23 23.011">
+  <g id="more-2" data-name="more" transform="translate(-1.168 25.375) rotate(-90)">
+    <g id="Group_22779" data-name="Group 22779" transform="translate(3.114 10.646)">
+      <path id="Vector" d="M2.425,0A2.425,2.425,0,1,0,4.85,2.425,2.432,2.432,0,0,0,2.425,0Z" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M2.425,0A2.425,2.425,0,1,0,4.85,2.425,2.432,2.432,0,0,0,2.425,0Z" transform="translate(16.411)" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M2.425,0A2.425,2.425,0,1,0,4.85,2.425,2.432,2.432,0,0,0,2.425,0Z" transform="translate(8.205)" fill="none" stroke="#000" stroke-width="1.5"/>
+    </g>
+    <path id="Vector-4" data-name="Vector" d="M0,0H23V23H0Z" transform="translate(2.375 1.168)" fill="#b20505" opacity="0"/>
+  </g>
+</svg>
